@@ -7,6 +7,11 @@
                     Tratando Strings
                 </a>
             </li>
+            <li>
+                <a href="exercicio.php?dir=strings&file=tratamento2">
+                    Tratando Strings 2
+                </a>
+            </li>
         </ul>
     </div>
 </nav>
